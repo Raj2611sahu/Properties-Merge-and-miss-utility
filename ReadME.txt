@@ -1,3 +1,12 @@
+Prerequisite : 
+1.	Install python3.7.2 and add it into your environment variable path
+2.	Open command prompt and run the following command:
+	a.	pip install gitpython
+	b.	pip install nose
+3.	Extract the zip file and refer the ReadME.txt file.
+
+
+
 Open conf.csv :
 
 Naming convention for adding repository:
