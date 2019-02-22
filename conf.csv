@@ -1,0 +1,3 @@
+FolderName,Git clone url,Branch,FilePath,needed
+acp-process-email-service,http://rajesh.sahu%40cetera.com@git-stash.ceteracorp.com/scm/acp/email-services-deploy.git,stable,\config\,yes
+config,http://rajesh.sahu%40cetera.com@git-stash.ceteracorp.com/scm/acp/acp-service-properties.git,uat,,yes
